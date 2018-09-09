@@ -1,8 +1,12 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-  
-  phrase = "Welcome to Flatiron School's Web Development Course!"
+  i = 0
+  while i < number_of_times do
+  puts 
+  i += 1
+end
+  #phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
 
